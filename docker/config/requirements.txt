@@ -115,3 +115,4 @@ watchtower==0.7.3
 Werkzeug==1.0.1
 WTForms==2.3.3
 zipp==3.4.1
+google-cloud-bigquery==3.3.0
